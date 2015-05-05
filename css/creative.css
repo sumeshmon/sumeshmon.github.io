@@ -263,6 +263,7 @@ header .header-content .header-content-inner p {
     position: relative;
     margin: 0 auto;
     max-width: 650px;
+    border:1px solid #E8E8E8;
 }
 
 .portfolio-box .portfolio-box-caption {
